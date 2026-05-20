@@ -15,4 +15,4 @@ print("Ваш новый пароль:", generate_password(password_length))
 
 
 
-
+sdadf
